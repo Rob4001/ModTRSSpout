@@ -1,0 +1,7 @@
+name: ModTRSSpout
+main: net.umc.ModTRSSpout.ModTRSSpout
+version: 0.1
+author: Rob4001
+description: Spout GUI for ModT
+load: POSTWORLD
+depend: [Spout]
